@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityajha0001
+- 👋 Hi, I’m ADITYA
 - 🤖 i am a full stack web developer.
 - 💞️ I’m looking to collaborate on web project.
 - 📫 you can contact me ...rockadi2407@gmail.com
