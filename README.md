@@ -8,7 +8,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Aditya JHA, Computer Science Engineering Student & Software Developer from India
+  Hi, I'm Aditya JHA, Computer Science Engineering Student & Web Developer from India
   <br>
   <br>
   🔬 I'm currently studying for a Graduation degree in Dr A.P.J. Abdul Kalam Technical University Computer Engineering Department
