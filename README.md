@@ -31,6 +31,7 @@
   <code><img title="CSS" height="25" src="https://skillicons.dev/icons?i=css"></code>
   <code><img title="React" height="25" src="https://skillicons.dev/icons?i=react"></code>
   <code><img title="node" height="25" src="https://skillicons.dev/icons?i=nodejs"></code>
+   <code><img title="Nextjs" height="25" src="https://skillicons.dev/icons?i=nextjs"></code>
   <code><img title="mongodb" height="25" src="https://skillicons.dev/icons?i=mongodb"></code>
   <code><img title="ExpressJS" height="25" src="https://skillicons.dev/icons?i=express"></code>
   <code><img title="Git" height="25" src="https://skillicons.dev/icons?i=git"></code>
