@@ -71,8 +71,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/adityajha0001/cypher" title="cypher"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=cypher&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/adityajha0001/" title="adityajha001"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=adityajha0001&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/adityajha0001/cypher-1" title="cypher"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=cypher-1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/adityajha0001/COFFEE-Near-Me" title="COFFEE-Near-Me"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=COFFEE-Near-Me&theme=react&border_color=61dafb&border_radius=10"></a>
   
 </div>
 <br/><br/><br/><br/><br/>
