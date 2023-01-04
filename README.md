@@ -63,18 +63,8 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/adityajha0001/X-FACTOR" title="X-FACTOR"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=X-FACTOR&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/adityajha0001/GOLUM-WAR" title="GOLUM-WAR"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=GOLUM-WAR&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/adityajha0001/cypher-1" title="cypher"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=cypher-1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/adityajha0001/COFFEE-Near-Me" title="COFFEE-Near-Me"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=adityajha0001&repo=COFFEE-Near-Me&theme=react&border_color=61dafb&border_radius=10"></a>
-  
-</div>
+
 <br/><br/><br/><br/><br/>
 
 
