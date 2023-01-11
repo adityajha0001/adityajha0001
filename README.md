@@ -41,6 +41,7 @@
   <code><img title="Git" height="25" src="https://skillicons.dev/icons?i=git"></code>
   <code><img title="Visual Studio Code" height="25" src="https://skillicons.dev/icons?i=vscode"></code>
   <code><img title="GitHub" height="25" src="https://skillicons.dev/icons?i=github"></code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="25" height="25"/>
   
 </p>
 <hr>
