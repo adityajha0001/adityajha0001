@@ -37,6 +37,7 @@
   <code><img title="mongodb" height="25" src="https://skillicons.dev/icons?i=mongodb"></code>
   <code><img title="MySQL" height="25" src="https://skillicons.dev/icons?i=mysql"></code>
   <code><img title="Firebase" height="25" src="https://skillicons.dev/icons?i=firebase"></code>
+  <code><img title="Postman" height="25" src="https://skillicons.dev/icons?i=postman"></code>
   <code><img title="Git" height="25" src="https://skillicons.dev/icons?i=git"></code>
   <code><img title="Visual Studio Code" height="25" src="https://skillicons.dev/icons?i=vscode"></code>
   <code><img title="GitHub" height="25" src="https://skillicons.dev/icons?i=github"></code>
