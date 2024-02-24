@@ -27,6 +27,7 @@
   <code><img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html"></code>
   <code><img title="CSS" height="25" src="https://skillicons.dev/icons?i=css"></code>
   <code><img title="Javascript" height="25" src="https://skillicons.dev/icons?i=js"></code>
+   <code><img title="Typescript" height="25" src="https://skillicons.dev/icons?i=ts"></code>
   <code><img title="python" height="25" src="https://skillicons.dev/icons?i=py"></code>
   <code><img title="Git" height="25" src="https://skillicons.dev/icons?i=git"></code>
    <code><img title="GitHub" height="25" src="https://skillicons.dev/icons?i=github"></code>
