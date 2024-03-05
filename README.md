@@ -15,7 +15,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with MongoDB
+  📚 I’m currently learning ML&AI related libraries (panda)
   <br>
   📫 How to reach me: <a href="mailto: rockadi2407@gmail.com">rockadi2407@gmail.com</a>
 </p>
