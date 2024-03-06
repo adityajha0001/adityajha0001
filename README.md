@@ -13,7 +13,7 @@
   <br>
   🔬 I'm currently studying for a Graduation degree in Dr A.P.J. Abdul Kalam Technical University Computer Engineering Department
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code.
   <br>
   📚 I’m currently learning ML&AI related libraries (panda)
   <br>
