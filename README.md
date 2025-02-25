@@ -15,7 +15,7 @@
   <br>
   💻 I love writing code.
   <br>
-  📚 I’m currently learning ML&AI related libraries (panda)
+  📚 I’m currently learning ML&AI....
   <br>
   📫 How to reach me: <a href="mailto: rockadi2407@gmail.com">rockadi2407@gmail.com</a>
 </p>
